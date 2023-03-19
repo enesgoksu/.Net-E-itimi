@@ -6,7 +6,7 @@ namespace değişkenler
     {
         public static void Main(string[] args)
         {
-            console.WriteLine("");
+            
             byte b = 5;     // 1 byte
             sbyte c = 5;    // 1 byte
             short s = 5;    // 2 byte
