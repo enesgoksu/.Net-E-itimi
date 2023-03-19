@@ -15,6 +15,25 @@ namespace değişkenler
             int i = 2;      // 4 byte
             Int32 i32 = 2;  // 4 byte
             Int64 i64 = 2 ; // 8 byte
+            uint ui = 2;    // 4 byte
+            long l = 4;     // 8 byte
+            ulong ul = 4;   // 8 byte
+
+            // Reel Sayılar
+            float f = 5;    // 4 byte 
+            double d = 5;   // 8 byte
+            decimal de = 5; // 16 byte
+
+            char ch = '2';  // 2 byte
+            string str = "Enes";    // sınırsız
+            
+            bool bl = true;
+            bool b2 = false;
+
+            DateTime dt = DateTime.Now;
+            
+            console.WriteLine(dt);
+
             
         }
     }
