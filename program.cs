@@ -31,6 +31,59 @@
         bool b2 = false;
 
         DateTime dt = DateTime.Now;
-        Console.WriteLine(dt)
+        Console.WriteLine(dt);
+
+        object o1 = "x";
+        object o2 = 'y';
+        object o3 = 4;
+        object o4 = 3.5;
+
+        // string ifadeler
+        string str1 = string.Empty;
+        str1 = " Enes Göksu";
+        string ad = "Enes";
+        string soyad = "Göksu";
+        string tamİsim = ad + ' ' + soyad;
+        Console.WriteLine(tamİsim);
+
+        // İnteger tanımlama şekiller
+
+        int integer1 = 5;
+        int integer2 = 3;
+        int carpim = integer1 * integer2;
+        Console.WriteLine(carpim);
+
+        // boolean
+
+        bool bool1 = 10 < 2;
+        Console.WriteLine(bool1);
+
+        // Değişken dönüşümleri
+        string str20 = "20";
+        int int20 = 20;
+        string yeniDeger = str20 + int20.ToString();
+        Console.WriteLine(yeniDeger);
+
+        int int21 = int20 + Convert.ToInt32(str20); // string bir ifadeyi int çevirdi.
+        Console.WriteLine(int21);
+
+        int int22 = int20 + int.Parse(str20);
+        Console.WriteLine(int22);
+
+        // datetime
+        // string datetime = DateTime.Now.ToString("dd.MM.yyyy");  // datetime içerisinden gün ay ve yılı getir.
+        // Console.WriteLine(datetime);
+
+        string datetime2 = DateTime.Now.ToString("dd&MM&yyyy");
+        Console.WriteLine(datetime2);
+
+        string hour = DateTime.Now.ToString("HH:mm");
+        Console.WriteLine(hour);
+
+       
+
+
+
+
     }
 }

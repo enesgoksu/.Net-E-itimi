@@ -1,0 +1,15 @@
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\bin\Debug\net7.0\.Net-E-itimi.exe
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\bin\Debug\net7.0\.Net-E-itimi.deps.json
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\bin\Debug\net7.0\.Net-E-itimi.runtimeconfig.json
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\bin\Debug\net7.0\.Net-E-itimi.dll
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\bin\Debug\net7.0\.Net-E-itimi.pdb
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.AssemblyInfoInputs.cache
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.AssemblyInfo.cs
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.dll
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\refint\.Net-E-itimi.dll
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.pdb
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\.Net-E-itimi.genruntimeconfig.cache
+C:\Users\ENES\Desktop\Pratikler\Değişkenler\.Net-E-itimi\obj\Debug\net7.0\ref\.Net-E-itimi.dll
